@@ -1,7 +1,7 @@
-# Computer Vision for Medical Imaging
+# Computer Vision for Herbal Plant Identification
 
 ## Overview
-This project focuses on developing and implementing advanced computer vision techniques for medical imaging applications. Leveraging deep learning architectures and machine learning models, we aim to enhance the accuracy and efficiency of medical image classification.
+This project focuses on developing and implementing advanced computer vision techniques for herbal plant imaging applications. Leveraging deep learning architectures and machine learning models, we aim to enhance the accuracy and efficiency of herbal plant image classification.
 
 ## Key Features
 - Custom ResNet-18 architecture for feature extraction
